@@ -1,7 +1,7 @@
 # SPI/AXI/X-Ray Inspection Panel README
 
 ## Overview
-This is a Python application designed for SPI (Solder Paste Inspection), AXI (Automated X-Ray Inspection), and X-Ray image processing. The tool provides an interactive GUI built with PyQt5 to analyze PCB (Printed Circuit Board) images, detect defects, and visualize results.
+This is a Python And C++ application designed for SPI (Solder Paste Inspection), AXI (Automated X-Ray Inspection), and X-Ray image processing. The tool provides an interactive GUI built with PyQt5 to analyze PCB (Printed Circuit Board) images, detect defects, and visualize results.
 
 ## Features
 - **Image Loading**: Load individual images (BMP, PNG, JPG, JPEG) or a folder of images.
